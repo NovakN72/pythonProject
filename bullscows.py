@@ -16,7 +16,7 @@ while True:
             elif guess[i] in secret_number:
                 cows += 1
 
-        print("cows:", cows, "bulls:", bulls)
+        print("cowssss:", cows, "bulls:", bulls)
     else:
         print("you guess right the number was: ", secret_number)
         break
